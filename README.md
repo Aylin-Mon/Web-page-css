@@ -1,2 +1,2 @@
 # Web-page-css
-pagina web person con estilos
+pagina web personal con estilos
